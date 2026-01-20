@@ -13,7 +13,8 @@ def speak(text):
 
 print("🚀 Jarvis activited sucessfully!")
 speak("Hello Karan")
-// my name is piyush
+//karan 
+
 
 
 while True:
@@ -33,3 +34,4 @@ while True:
     else:
 
         speak("Sorry, I did not understand")
+
